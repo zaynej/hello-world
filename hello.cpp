@@ -1,5 +1,6 @@
 #include <iostream>
 
 int main(){
-    std::cout << "What a world this is!" << std::endl;
+    std::cout << "What is this?" << std::endl;
 }
+
